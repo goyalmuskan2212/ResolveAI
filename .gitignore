@@ -1,0 +1,39 @@
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Claude Code
+.claude/
+
+# Superpowers docs (plans, specs)
+docs/
+
+# Logs
+*.log
+
+# Coverage
+.coverage
+htmlcov/
+
+# Personal docs
+project_2_support_agent.md
+roadmap.md
