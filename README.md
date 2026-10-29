@@ -457,7 +457,3 @@ Access the Langfuse dashboard:
 ![Langfuse Trace](assets/langfuse-trace.png)
 
 ---
-
-## License
-
-This project is for educational purposes.
