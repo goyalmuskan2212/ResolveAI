@@ -1,4 +1,4 @@
-# AI Support Agent
+# ResolveAI(AI Support Agent)
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-orchestration-blue)
