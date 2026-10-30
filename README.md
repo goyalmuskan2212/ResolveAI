@@ -144,7 +144,7 @@ If any layer fails, the agent escalates immediately — skipping `generate` and 
 ### 1. Clone and set up the environment
 
 ```bash
-git clone https://github.com/your-username/support-agent.git
+git clone https://github.com/your-username/ResolveAI.git
 cd support-agent
 
 python -m venv venv
