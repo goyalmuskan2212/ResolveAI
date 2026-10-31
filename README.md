@@ -1,4 +1,4 @@
-# AI Support Agent
+# ResolveAI(AI Support Agent)
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-orchestration-blue)
@@ -144,7 +144,7 @@ If any layer fails, the agent escalates immediately — skipping `generate` and 
 ### 1. Clone and set up the environment
 
 ```bash
-git clone https://github.com/your-username/support-agent.git
+git clone https://github.com/your-username/ResolveAI.git
 cd support-agent
 
 python -m venv venv
@@ -457,7 +457,3 @@ Access the Langfuse dashboard:
 ![Langfuse Trace](assets/langfuse-trace.png)
 
 ---
-
-## License
-
-This project is for educational purposes.
