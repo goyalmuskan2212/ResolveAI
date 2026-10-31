@@ -185,7 +185,7 @@ class TestGetTraceById:
         mock_obs = MagicMock()
         mock_obs.name = "classify"
         mock_obs.latency = 800
-        mock_obs.model = "gemini-2.5-flash"
+        mock_obs.model = "gemini-3.8-flash"
         mock_obs.total_cost = 0.002
         mock_trace.observations = [mock_obs]
 

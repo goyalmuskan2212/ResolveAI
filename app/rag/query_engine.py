@@ -10,7 +10,7 @@ def get_query_engine() -> BaseQueryEngine:
     """Create a query engine with similarity filtering and LLM reranking.
 
     Pipeline: vector search (top_k=10) → SimilarityPostprocessor (cutoff=0.5)
-    → LLMRerank (top_n=5, gemini-2.5-flash). No response synthesis —
+    → LLMRerank (top_n=5, gemini-3.8-flash). No response synthesis —
     only source nodes are used by rag_search_node.
     """
     configure_llama_index()

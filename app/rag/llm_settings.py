@@ -16,6 +16,6 @@ def configure_llama_index() -> None:
         api_key=app_settings.GEMINI_API_KEY,
     )
     Settings.llm = GoogleGenAI(
-        model="gemini-2.5-flash",
+        model="gemini-3.8-flash",
         api_key=app_settings.GEMINI_API_KEY,
     )
